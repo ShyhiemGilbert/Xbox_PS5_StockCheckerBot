@@ -11,7 +11,7 @@ First and foremost, this service _will not_ automatically buy for you.
 
 streetmerchant runs on Node.js:
 
-```shell
-https://github.com/ShyhiemGilbert/Xbox_PS5_StockCheckerBot.git
+```shell 
+git clone https://github.com/ShyhiemGilbert/Xbox_PS5_StockCheckerBot.git
 cd streetmerchant && npm i && npm run start
 ```
