@@ -92,6 +92,7 @@ import {Medimax} from './medimax';
 import {Megekko} from './megekko';
 import {MemoryExpress} from './memoryexpress';
 import {MicroCenter} from './microcenter';
+import {Microsoft} from './Microsoft';
 import {MightyApe} from './mightyape';
 import {Mindfactory} from './mindfactory';
 import {Msy} from './msy';
@@ -249,6 +250,7 @@ export const storeList = new Map([
   [Materiel.name, Materiel],
   [MemoryExpress.name, MemoryExpress],
   [MicroCenter.name, MicroCenter],
+  [Microsoft.name, Microsoft],
   [MightyApe.name, MightyApe],
   [Mindfactory.name, Mindfactory],
   [Msy.name, Msy],
