@@ -13,5 +13,5 @@ streetmerchant runs on Node.js:
 
 ```shell 
 git clone https://github.com/ShyhiemGilbert/Xbox_PS5_StockCheckerBot.git
-cd streetmerchant && npm i && npm run start
+cd Xbox_PS5_StockCheckerBot && npm i && npm run start
 ```
